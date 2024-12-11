@@ -34,6 +34,7 @@ Pada awal perkuliahan, materi yang dibahas adalah pengulangan konsep dasar menge
 ## Model OSI
 
 ![image](https://github.com/user-attachments/assets/d9c0c573-1bf2-4e30-bfcf-340e9c011554)
+
 Pada pertemuan berikutnya, dosen membahas mengenai **OSI Model** yang terdiri dari 7 lapisan. Setiap lapisan memiliki fungsi spesifik, seperti mengirim data secara fisik pada lapisan pertama, dan lain-lain. Pemahaman tentang model ini sangat penting untuk memahami bagaimana cara data berpindah melalui jaringan.
 
 ---
