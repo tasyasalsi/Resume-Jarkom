@@ -1,3 +1,4 @@
+
 # Resume Materi Jaringan Komputer Lanjut
 
 Disusun oleh:  
@@ -129,7 +130,5 @@ Bridge adalah jaringan yang menghubungkan dua atau lebih segmen jaringan, sehing
 
 **Dynamic Routing** adalah teknik yang digunakan untuk memilih jalur terbaik secara otomatis dalam pengiriman data melalui jaringan. Mahasiswa belajar mengimplementasikan protokol routing dinamis pada Mikrotik untuk otomatis memilih jalur terbaik.
 
----
 
-Terima kasih telah membaca resume ini! Jangan ragu untuk memberikan saran dan masukan.
 
